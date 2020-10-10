@@ -1,0 +1,14 @@
+Takeaways from Assignment 1
+
+Assignment 1 was helpful in gaining practical implementation skills in major portions of Supervised Learning, which included Gradient Descent, Minibatch Gradient Descent, SGD, along with Regularization techniques like L1 norm(Ridge Regression) and L2(Least Angle Regression). Also, unsupervised learning techniques such as k-Means were covered to a smaller extent.
+
+Normal implementation using ML/DL frameworks makes a lot of use of abstraction, hiding the implementation logic to a very large extent. Writing various algorithms from scratch using very basic libraries helps in gaining a deeper understanding of the working of these algorithms. Also, this helped in gaining insights into tuning various hyperparameters and their resultant behaviour in the working and efficiency of the model.
+
+Both the loop based and vectorisation based implementations were worked upon, which gave more exposure to the implementation part of the algorithms and helped in understaning the concepts better.
+
+Plotting graphs are a great way to visualise the intricacies of the model, and also helps in realising the shortcomings in certain areas of implementation, which in turn can help us to model the models better. By this assignment, various visualisation techniques were experimented upon and some of them were used.
+
+Overall, the assignment was very helpful in understanding the concepts taught in the class much more clearly and provided a hands-on exposure to experiment, analyse the data and draw meaningful conclusions from it.
+
+
+
