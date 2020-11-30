@@ -1,0 +1,8 @@
+Learning Outcomes from Assignment 2 of BITS F312 (NNFL)
+
+
+The assignment introduced me to various concepts in Neural Networks and Machine Learning. I was able to develop various architectures right from scratch and understand how each of them actually work. This assignment involved developing machine learning and neural network models such as Autoencoders(with variations), Convolutional Networks, Extreme Learning Machines, Support Vector Machines, etc. I was also exposed to various techniques of training the data, such as k-fold cross validation, holdout cross validation, etc. These techniques helped me in understanding to develop better performing models by using appropriate architecture, hyperparameters, etc.
+
+Unlike the previous assignment, this assignment had a section where CNN was to be implemented using a Deep Learning Framework. Due to this, I was able to learn Keras, which is essential, since training huge datasets at an industry level involves extensive use of such frameworks. Also, this helped me appreciate the way in which such frameworks are written in the back-end, since it makes things a lot easier rather than doing everything from scratch.
+
+Overall, this assignment has been useful for me to explore a plethora of algorithms and architectures, implement them, and also analyse their performance using appropriate performance measures, and techniques to improve them.
